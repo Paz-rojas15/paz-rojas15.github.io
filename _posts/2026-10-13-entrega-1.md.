@@ -1,0 +1,141 @@
+---
+layout: post
+title: "Entrega 1: ¿Por qué hay tan pocas alcaldesas en Chile?"
+---
+
+## Introducción y pregunta de investigación
+
+Las mujeres son más de la mitad de la población de Chile, pero siguen siendo una minoría entre quienes gobiernan las comunas del país. Desde 2004, cuando los alcaldes comenzaron a elegirse de forma directa y separada de los concejales, la gran mayoría de las alcaldías ha quedado en manos de hombres. Esta hecho lleva a preguntarse si el problema es por que pocas mujeres compiten, o si, la ciudadanía vota menos por mujeres.
+
+A partir de esto, la pregunta que guía este proyecto es:
+
+> **¿Por qué hay tan pocas alcaldesas en Chile? Un análisis de la oferta y la demanda de candidatas en las elecciones municipales de 2004 a 2024.**
+
+Esta pregunta es relevante por dos razones. En términos teóricos, permite poner a prueba una discusión que sigue abierta en la ciencia política: si la baja presencia de mujeres en cargos de elección popular se debe a que se presentan menos (oferta) o a que los votantes las prefieren menos (demanda). En términos empíricos, las alcaldías chilenas son un caso especialmente interesante, porque la ley de cuotas de género aprobada en 2015 se aplica a las elecciones parlamentarias, pero no a las municipales. Por lo tanto, permiten observar cómo cambia la representación de las mujeres cuando no existe ninguna regla que la impulse.
+
+## Planteamiento teórico y revisión de literatura
+
+### ¿Por qué importa que haya mujeres en el poder?
+
+Para entender el problema, primero hay que definir qué significa que un grupo esté "representado". Pitkin (1967) propone una distinción que sigue siendo muy usada: la representación **descriptiva**, que se refiere a que quienes ocupan cargos se parezcan a la población que representan (por ejemplo, en su sexo), y la representación **sustantiva**, que se refiere a que defiendan los intereses de ese grupo. En este proyecto me enfoco en la representación descriptiva, es decir, en cuántas mujeres llegan a ser alcaldesas.
+
+Esto no es solo una cuestión de números. Phillips (1995) sostiene que la presencia de mujeres en cargos de poder importa por sí misma, porque una democracia donde la mitad de la población casi no ocupa cargos de decisión está incompleta. Además, las mujeres que llegan al poder sirven como modelos a seguir: cuando las personas ven a mujeres en política, especialmente las más jóvenes, aumenta su interés por participar (Campbell y Wolbrecht, 2006).
+
+### ¿Qué pasa cuando gobiernan mujeres? Evidencia de otros países
+
+Diversos estudios sobre gobiernos locales sugieren que la llegada de mujeres al poder puede marcar una diferencia. En India, donde por ley se reserva un porcentaje de jefaturas de consejos de aldeas para mujeres, Chattopadhyay y Duflo (2004) encontraron que las líderes invierten más en obras relacionadas con las necesidades de las mujeres, como el acceso a agua potable. En Brasil, Brollo y Troiano (2016) compararon municipios donde una mujer ganó la alcaldía por muy poco con municipios donde ganó un hombre por muy poco, y encontraron que las alcaldesas cometen menos actos de corrupción y logran mejores resultados en salud, como más controles prenatales. Llamativamente, el mismo estudio encontró que, a pesar de estos resultados, las alcaldesas tenían menos probabilidades de ser reelegidas que los alcaldes.
+
+Sin embargo, la evidencia no es igual en todos los contextos. En Estados Unidos, Ferreira y Gyourko (2014) no encontraron diferencias importantes entre las políticas aplicadas por alcaldes y alcaldesas. Esto muestra que el efecto de tener mujeres en el poder puede depender del país y de cuánto poder tienen los gobiernos locales. Aun así, estos estudios coinciden en algo importante: las mujeres no gobiernan peor que los hombres, por lo que su baja presencia no se explica por falta de capacidad.
+
+### Oferta y demanda: dos explicaciones para la falta de mujeres
+
+La literatura ofrece dos grandes explicaciones para entender por qué hay menos mujeres en cargos de elección popular. Norris y Lovenduski (1995) las resumen como un problema de **oferta** y de **demanda**.
+
+Por el lado de la oferta, la explicación es que hay menos mujeres dispuestas a ser candidatas. Lawless y Fox (2010) muestran que, incluso entre personas con perfiles parecidos, las mujeres se sienten menos calificadas para competir y reciben menos invitaciones a hacerlo. A esto se suman los roles de género tradicionales y las tareas de cuidado, que les dejan menos tiempo para hacer carrera política.
+
+Por el lado de la demanda, la explicación es que, aunque las mujeres quieran competir, el sistema no las favorece. Esto puede pasar porque los partidos prefieren nominar a hombres, o porque los votantes tienen estereotipos de género que perjudican a las candidatas, por ejemplo, la idea de que los hombres son más fuertes o mejores para liderar (Huddy y Terkildsen, 1993). En esta línea, Beaman et al. (2009) mostraron en India que los votantes evaluaban peor a las líderes mujeres, aunque ese prejuicio disminuía después de haber tenido una mujer en el cargo.
+
+Sin embargo, otros estudios ponen en duda que los votantes castiguen a las mujeres. Brooks (2013) y Dolan (2014) encuentran que, cuando las mujeres compiten, ganan en proporciones parecidas a los hombres, y que los estereotipos de género pesan menos de lo que se pensaba. Si esto es así, el principal obstáculo no estaría en las urnas, sino antes: en que pocas mujeres llegan a ser candidatas. Esta discusión sigue abierta, y es justamente la que este proyecto busca poner a prueba en el caso chileno.
+
+### La incumbencia: cuando los cargos casi nunca quedan libres
+
+Existe una tercera explicación que se ubica entre las dos anteriores. Puede que las mujeres no pierdan por ser mujeres, sino porque suelen competir contra hombres que ya ocupan el cargo y buscan la reelección. Quienes están en el cargo tienen una gran ventaja: son más conocidos, tienen recursos y ya han ganado antes. Schwindt-Bayer (2005) sostiene que esta ventaja frena la llegada de mujeres, porque los cargos casi nunca quedan disponibles. Así, aunque los votantes no discriminen, la representación de las mujeres avanza muy lento.
+
+Esta explicación es especialmente importante para Chile, donde durante años muchos alcaldes se reeligieron una y otra vez. En 2020 se aprobó un límite a la reelección de alcaldes, lo que podría haber abierto más cupos en las últimas elecciones y, con ello, más oportunidades para las mujeres. Por esta razón, la incumbencia se considerará en el análisis para comparar a hombres y mujeres en igualdad de condiciones.
+
+### El caso chileno y el aporte de este proyecto
+
+En América Latina, la llegada de mujeres a la presidencia, como Michelle Bachelet en Chile, generó grandes expectativas sobre el aumento de la participación política de las mujeres (Franceschet et al., 2016; Reyes-Housholder y Thomas, 2018). Sin embargo, la mayoría de los estudios se ha concentrado en la presidencia, en el Congreso y en el efecto de las leyes de cuotas.
+
+Las alcaldías chilenas son un caso interesante y menos estudiado por dos razones. Primero, desde 2004 los alcaldes se eligen de forma directa, lo que permite analizar veinte años de elecciones con las mismas reglas básicas. Segundo, como las elecciones municipales no tienen cuotas de género, muestran cómo cambia la representación de las mujeres sin reglas que la impulsen.
+
+El aporte de este proyecto es analizar las elecciones de alcaldes entre 2004 y 2024 para distinguir si la baja presencia de alcaldesas se explica porque se presentan pocas mujeres, porque la ciudadanía vota menos por ellas, o porque les cuesta más mantenerse en el cargo una vez que llegan.
+
+### Hipótesis
+
+A partir de esta discusión, planteo tres hipótesis:
+
+- **H1 (oferta):** se presentan muchas menos mujeres que hombres como candidatas a alcalde.
+- **H2 (demanda):** la ciudadanía vota menos por las mujeres. Es decir, aun compitiendo en las mismas condiciones que los hombres (mismo sector político y sin ser alcalde o alcaldesa en ejercicio), las candidatas tienen una menor probabilidad de ganar.
+- **H3 (reelección):** una vez en el cargo, las alcaldesas tienen una menor probabilidad de ser reelegidas que los alcaldes.
+
+## Construcción y operacionalización de conceptos
+
+### Unidad de análisis
+
+La unidad de análisis de este proyecto es la **candidatura a alcalde o alcaldesa**. Es decir, cada fila de la base de datos corresponde a una persona que compitió en una comuna en una elección. La base incluirá todas las candidaturas de las elecciones municipales de 2004, 2008, 2012, 2016, 2021 y 2024, y será construida a partir de los resultados oficiales del Servicio Electoral (Servel).
+
+### Concepto central: representación descriptiva de las mujeres
+
+Siguiendo a Pitkin (1967), entiendo la representación descriptiva como **la presencia de mujeres en los cargos de poder**, en este caso, en las alcaldías. Este concepto describe el problema general del proyecto: cuántas mujeres llegan a gobernar las comunas de Chile. Se medirá como el porcentaje de alcaldías ganadas por mujeres en cada elección.
+
+Para explicar por qué hay pocas alcaldesas, divido el problema en tres conceptos, cada uno ligado a una hipótesis.
+
+**1. Oferta de candidatas (H1).** Es la cantidad de mujeres que deciden competir y logran ser candidatas. Tiene dos dimensiones. La primera es la **oferta partidaria**: las mujeres que compiten apoyadas por un pacto o coalición, lo que refleja la disposición de los partidos a nominarlas. La segunda es la **oferta independiente**: las mujeres que compiten fuera de pacto, lo que refleja su propia decisión de presentarse sin apoyo de los partidos. Se medirá con el porcentaje de candidaturas de mujeres en cada elección, separando las que van dentro y fuera de pacto, y por sector político.
+
+**2. Demanda electoral (H2).** Es la disposición de la ciudadanía a votar por mujeres. Se medirá de dos formas: si la candidatura ganó o no la elección, y el porcentaje de votos que obtuvo. Para comparar de forma justa, se considerarán candidaturas de hombres y mujeres en condiciones parecidas, es decir, del mismo sector político y sin ser alcalde o alcaldesa en ejercicio.
+
+**3. Reelección (H3).** Es la capacidad de quienes ya ocupan el cargo de mantenerse en él. Se medirá solo entre los alcaldes y alcaldesas en ejercicio que se volvieron a presentar, registrando si ganaron o no. Como la reelección se mide en la elección siguiente, y quienes buscaban la reelección en 2004 habían sido electos con el sistema anterior, este análisis abarca desde 2008 hasta 2024.
+
+### Variables de control
+
+Para comparar a hombres y mujeres en igualdad de condiciones, se incluirán como controles la incumbencia, el sector político, el pacto y el año de la elección. Este último permite considerar cambios en el tiempo, como el paso al voto voluntario en 2012 o el regreso del voto obligatorio en 2024. La forma de medir cada una se detalla en la sección de construcción de la base de datos.
+
+### Resumen de conceptos y su medición
+
+| Concepto | Definición | Dimensiones | Indicador | Hipótesis |
+|---|---|---|---|---|
+| Representación descriptiva | Presencia de mujeres en las alcaldías | — | % de alcaldías ganadas por mujeres en cada elección | Problema general |
+| Oferta de candidatas | Mujeres que deciden competir y logran ser candidatas | Partidaria (dentro de pacto) e independiente (fuera de pacto) | % de candidaturas de mujeres, por pacto y sector | H1 |
+| Demanda electoral | Disposición de la ciudadanía a votar por mujeres | Éxito electoral y apoyo en votos | Ganó (sí/no) y % de votos obtenidos | H2 |
+| Reelección | Capacidad de quienes ocupan el cargo de mantenerse en él | — | Ganó la reelección (sí/no), entre quienes se repostularon | H3 |
+| Variables de control | Condiciones de la competencia | Incumbencia, sector, pacto, año | Variables de la base de datos | H2 y H3 |
+
+### Construcción de la base de datos
+
+La base de datos será construida de forma propia a partir de los resultados oficiales del Servel. Cada variable se codificará de la siguiente manera:
+
+| Variable | Descripción | Valores |
+|---|---|---|
+| Año | Año de la elección | 2004, 2008, 2012, 2016, 2021, 2024 |
+| Comuna | Comuna donde compitió la candidatura | Nombre de la comuna |
+| Sexo | Sexo de la persona candidata, codificado a partir de su nombre y, en caso de duda, revisado en prensa o en el sitio de la municipalidad | Mujer / Hombre |
+| Sector político | Ubicación política según el partido o la trayectoria de la candidatura | Izquierda / Centro / Derecha / Independiente |
+| Pacto | Si la candidatura compitió dentro o fuera de un pacto electoral | Dentro de pacto / Fuera de pacto |
+| Incumbencia | Si la persona era alcalde o alcaldesa en ejercicio al momento de competir | Sí / No |
+| Votos | Porcentaje de votos válidos obtenidos en la comuna | 0 a 100 |
+| Ganó | Si la candidatura ganó la alcaldía | Sí / No |
+
+A partir de estas variables se calcularán los indicadores de cada concepto. Por ejemplo, el porcentaje de candidaturas de mujeres (H1) se obtiene contando cuántas filas corresponden a mujeres en cada elección, y la reelección (H3) se mide usando las variables incumbencia y ganó.
+
+## Referencias
+
+Beaman, L., Chattopadhyay, R., Duflo, E., Pande, R., y Topalova, P. (2009). Powerful women: Does exposure reduce bias? *The Quarterly Journal of Economics, 124*(4), 1497–1540.
+
+Brollo, F., y Troiano, U. (2016). What happens when a woman wins an election? Evidence from close races in Brazil. *Journal of Development Economics, 122*, 28–45.
+
+Brooks, D. J. (2013). *He runs, she runs: Why gender stereotypes do not harm women candidates*. Princeton University Press.
+
+Campbell, D. E., y Wolbrecht, C. (2006). See Jane run: Women politicians as role models for adolescents. *The Journal of Politics, 68*(2), 233–247.
+
+Chattopadhyay, R., y Duflo, E. (2004). Women as policy makers: Evidence from a randomized policy experiment in India. *Econometrica, 72*(5), 1409–1443.
+
+Dolan, K. (2014). *When does gender matter? Women candidates and gender stereotypes in American elections*. Oxford University Press.
+
+Ferreira, F., y Gyourko, J. (2014). Does gender matter for political leadership? The case of U.S. mayors. *Journal of Public Economics, 112*, 24–39.
+
+Franceschet, S., Piscopo, J. M., y Thomas, G. (2016). Supermadres, maternal legacies and women's political participation in contemporary Latin America. *Journal of Latin American Studies, 48*(1), 1–32. https://doi.org/10.1017/S0022216X15000814
+
+Huddy, L., y Terkildsen, N. (1993). Gender stereotypes and the perception of male and female candidates. *American Journal of Political Science, 37*(1), 119–147.
+
+Lawless, J. L., y Fox, R. L. (2010). *It still takes a candidate: Why women don't run for office* (Ed. rev.). Cambridge University Press.
+
+Norris, P., y Lovenduski, J. (1995). *Political recruitment: Gender, race and class in the British Parliament*. Cambridge University Press.
+
+Phillips, A. (1995). *The politics of presence*. Oxford University Press.
+
+Pitkin, H. F. (1967). *The concept of representation*. University of California Press.
+
+Reyes-Housholder, C., y Thomas, G. (2018). Latin America's presidentas: Challenging old patterns, forging new pathways. En L. A. Schwindt-Bayer (Ed.), *Gender and representation in Latin America* (pp. 19–38). Oxford University Press.
+
+Schwindt-Bayer, L. A. (2005). The incumbency disadvantage and women's election to legislative office. *Electoral Studies, 24*(2), 227–244.
